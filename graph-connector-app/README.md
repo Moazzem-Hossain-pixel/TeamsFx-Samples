@@ -1,3 +1,5 @@
+resources
+get
 ---
 page_type: sample
 languages:
